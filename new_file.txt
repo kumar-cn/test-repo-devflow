@@ -5,3 +5,5 @@ Extra line in the new text file
 Second extra line
 
 Third extra line
+
+...
